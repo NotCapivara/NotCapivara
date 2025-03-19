@@ -3,8 +3,6 @@
 
 
 - 📚 Atualmente aprendendo Python 3
-- 📫 Para me contatar mande mensagem no discord NotCapivara#4038
-- ⚡ Minha primeira linguagem de progamação foi C++
 
  <div>
   <a href="https://github.com/NotCapivara">
