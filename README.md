@@ -2,7 +2,6 @@
 
 
 
-- 📚 Atualmente aprendendo Python 3
 
  <div>
   <a href="https://github.com/NotCapivara">
